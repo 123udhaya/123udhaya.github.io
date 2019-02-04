@@ -1,0 +1,37 @@
+.contact-grid1-left {
+    width: 100%;
+}
+.contact-grid1-left1 {
+    padding:1.2em;
+    border-bottom: 1px ridge rgb(214, 212, 212);
+    background:rgba(255,255,255,0.6);
+    text-align: center;
+}
+
+.contact-grid1-left1 a:hover {
+    color:red;
+}
+.contact-grid1-left1 a {
+      font-size: 14px;
+    color:black;
+    text-decoration: none;
+}
+.service-head
+{
+font-family: "Times New Roman", Times;
+}
+
+.mail_us
+{
+font-weight: bold;
+}
+.mail_us h4
+{
+font-weight: bold;
+color:#92DD03 ;
+}
+
+
+
+
+

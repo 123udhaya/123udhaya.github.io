@@ -145,9 +145,9 @@ ul.year li:nth-child(5){
 .timeline-body li
 {
 font-weight: bold;
-color:darkcyan;
+color:black;
 font-family:Times New Roman;
-font-size:18px;
+font-size:17px;
 line-height:25px;
 }
 .timeline > li {
